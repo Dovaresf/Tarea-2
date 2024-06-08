@@ -1,0 +1,33 @@
+/* Estilos para el cuerpo de la página */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para los títulos */
+h1 {
+    margin-top: 10px; 
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    text-align: center;
+}
+
+/* Estilos para el párrafo */
+p {
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    text-align: center;
+}
+
+/* Estilos para el contenedor del mapa */
+#mapaid {
+    width: 100%;
+    height: calc(100vh - 150px); 
+    margin: 0 auto; 
+}
